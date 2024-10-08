@@ -1,0 +1,14 @@
+<xri version="1.0">
+   <description>
+      <p>Automator v1.0 for PixInsight.</p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9.3:1.10.1">
+      <package fileName="Automator.zip" sha1="42b7be88b4b92ed37bf094b33150e7314d4aa4b3" type="script" releaseDate="20241007">
+         <title>Automator Script v1.0 for PixInsight</title>
+         <description>
+            <p>Automator v.1.0</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="Jesus Manuel Garcia Flores" timestamp="2024-10-08T06:39:13.476Z" encoding="Base64">HUdrfQfrUqrs1XoH6EQco+IKew26NHfa1dxUP282a847eRa735Qt1B0xTI/4V6t8gauXn8V6nK7XMER/Ln4WBw==</Signature>
