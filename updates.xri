@@ -1,0 +1,14 @@
+<xri version="1.0">
+   <description>
+      <p>Astro Processor for PixInsight.</p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9.3:1.10.1">
+      <package fileName="Astroprocessor.zip" sha1="43e75365c9d2ab14cac3d127eaddc3714761b66f" type="script" releaseDate="20241017">
+         <title>Astro Processor Script for PixInsight</title>
+         <description>
+            <p>Astro Processor Script for PixInsight</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="Jesus Manuel Garcia Flores" timestamp="2024-10-25T09:07:47.685Z" encoding="Base64">FK9oTcfV4Cj7t8QBDCqkT+PjZuw+D/pPd2fAsOyPVSfTJ2n5wyGcHJNibG5cWe7ro07tnvn+aMZnySrTj92bAQ==</Signature>
