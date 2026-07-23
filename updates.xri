@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts, written by Jesús Manuel García Flores.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="Astroprocessor23.07.2026.zip" sha1="429e3a78db7d889e96d7281a0d5a5a10559c4a9f" type="script" releaseDate="20260723">
+         <title>
+        Astro Processor Script for Pixinsight.
+      </title>
+         <description>
+            <p>
+           * Astro Processor Script Build 142 and bug fixed - 23.07.2026
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="Jesus Manuel Garcia Flores" timestamp="2026-07-23T09:51:52.546Z" encoding="Base64">iBMvVfWOIv1yxwbhNnCnXFF110z2lxurvGgrlPFMZooFoWzUSo2D0PXnZJEcy4s5olX1QImTpA+erTmT+3B+Ag==</Signature>
